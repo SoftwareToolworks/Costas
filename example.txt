@@ -6,7 +6,7 @@
 
 You could also do something like this if your compiler doesn't like "I"
 
-#define complxconj(float value) CMPLXF(cosf(float_value), -sinf(float_value))
+#define cmplxconj(float value) CMPLXF(cosf(float_value), -sinf(float_value))
 
 So multiply the conjugate of the current phase value against the receive symbol
  
