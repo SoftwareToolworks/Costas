@@ -1,2 +1,2 @@
-# Costas
-A Costos Loop Algorithm in C Language
+#### Costas - A Costos Algorithm in C Language
+This code was translatted from C++ to C and was originally in GNU Radio.
